@@ -1,9 +1,10 @@
 # ToDo  
-##  A responsive jQuery based ToDo list application with a focus on CSS styling.    
+##  A responsive jQuery based ToDo list application with a focus on CSS styling.  
+### For live preview, click [here](https://aleksftw.github.io/ToDo-App/)  
 
  - [x] It features animation effects.    
 
- - [x] ΩThe list gets filled with to-do tasks and each element has a hover effect.  
+ - [x] The list gets filled with to-do tasks and each element has a hover effect.  
 
  - [x] Has nice little delete button with a trashcan icon that appears. Tasks can be managed in two ways: they either get completely deleted off the list or they get checked off and still appear, but as finished tasks.  
 
